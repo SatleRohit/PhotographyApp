@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "WildLife",
+        "description": "Wildlife photography is a genre of photography concerned with documenting various forms of wildlife in their natural habitat.",
+        "image": ["https://cdn.pixabay.com/photo/2017/01/14/12/59/iceland-1979445__340.jpg",
+        "https://cdn.pixabay.com/photo/2017/10/25/16/54/african-lion-2888519__340.jpg",
+        "https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453__340.jpg"]
+    },
+    {
+        "id": 2,
+        "name": "Street",
+        "description": "Street photography, also sometimes called candid photography, is photography conducted for art or enquiry that features unmediated chance encounters and random incidents within public places.",
+        "image": ["https://cdn.pixabay.com/photo/2015/05/15/14/51/roof-768735__340.jpg",
+        "https://cdn.pixabay.com/photo/2017/05/03/21/20/feeder-2282162__340.jpg",
+        "https://cdn.pixabay.com/photo/2017/10/08/18/20/birdwatcher-2830911__340.jpg"]
+    },
+    {
+        "id": 3,
+        "name": "Fashion",
+        "description": "Fashion photography is a genre of photography which is devoted to displaying clothing and other fashion items.",
+        "image": ["https://cdn.pixabay.com/photo/2015/03/26/09/45/skull-690246__340.jpg",
+        "https://cdn.pixabay.com/photo/2014/01/29/18/34/woman-254538__340.jpg",
+        "https://cdn.pixabay.com/photo/2018/11/13/01/35/african-american-3812138__340.jpg"]
+    },
+    {
+        "id": 4,
+        "name": "Food",
+        "description": "Food photography is a still life photography genre used to create attractive still life photographs of food. It is a specialization of commercial photography, the products of which are used in advertisements, magazines, packaging, menus or cookbooks",
+        "image": ["https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466__340.jpg",
+        "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277__340.jpg",
+        "https://cdn.pixabay.com/photo/2016/04/13/07/18/blue-1326154__340.jpg"]
+    },
+    {
+        "id": 5,
+        "name": "Flower",
+        "description": "Flower photography is an exercise in celebrating color. Whether it's the vibrant red of a rose or the deep purple of a violet, colorful flowers and lush landscapes dominate nature photography.",
+        "image": ["https://cdn.pixabay.com/photo/2018/02/08/22/27/flower-3140492__340.jpg",
+        "https://cdn.pixabay.com/photo/2016/01/08/11/57/butterfly-1127666__340.jpg",
+        "https://cdn.pixabay.com/photo/2013/08/22/19/18/rose-174817__340.jpg"]
+    }
+]
